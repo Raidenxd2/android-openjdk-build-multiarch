@@ -1,5 +1,5 @@
-# mobile-openjdk8-build-multiarch-eclipse-adoptium
-#### Build scripts for building Eclipse Adoptium for use with PojavLauncher.
+# mobile-openjdk8-build-multiarch-eclipse-temurin
+#### Build scripts for building Eclipse Temurin for use with PojavLauncher.
 <br />
 
 Based on http://openjdk.java.net/projects/mobile/android.html
