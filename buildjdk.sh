@@ -28,6 +28,7 @@ export CFLAGS+=" -DLE_STANDALONE" # -I$FREETYPE_DIR -I$CUPS_DI
 
 if [ "$BUILD_IOS" != "1" ]; then
   export CFLAGS+=" -O3 -D__ANDROID__"
+  export CFLAGS+=" -lc"
 
   ln -s -f /usr/include/X11 $ANDROID_INCLUDE/
   ln -s -f /usr/include/fontconfig $ANDROID_INCLUDE/
