@@ -1,3 +1,5 @@
+# why am i doing openjdk9 building
+
 Based on http://openjdk.java.net/projects/mobile/android.html
 
 Download Android NDK r10e from https://developer.android.com/ndk/downloads/older_releases.html and place it in this directory
